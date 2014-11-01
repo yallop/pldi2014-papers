@@ -5,6 +5,8 @@ Links to [accepted papers][pldi14-accepted] for the [35th annual ACM SIGPLAN con
 
 (You may also be interested in [ICFP 2014 accepted papers][icfp14].)
 
+Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pldi2014-papers.svg)](https://travis-ci.org/yallop/pldi2014-papers)
+
 [icfp14]: https://github.com/yallop/icfp2014-papers
 
 ## PLDI 2014 Accepted papers
