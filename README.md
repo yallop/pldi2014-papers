@@ -48,7 +48,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Li Lu, Weixing Ji and Michael Scott
 
 * **End-to-End Verification of Stack-Space Bounds for C Programs**  
-    ([paper](http://zoo.cs.yale.edu/~qc35/data/veristack-paper.pdf))  
+    ([paper](http://flint.cs.yale.edu/flint/publications/veristack.pdf))  
     by Quentin Carbonneaux, Jan Hoffmann, Tahina Ramananandro and Zhong Shao
 
 * **Stochastic Optimization of Floating Point Programs using Tunable Precision**  
@@ -103,12 +103,12 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     ([paper](http://www.cse.ust.hk/~richardxx/papers/pestrie.pdf))  
     by Xiao Xiao, Jinguo Zhou, Charles Zhang and Qirun Zhang
 
-* **Maximal Sound Predictive Race Dteection With Control Flow Abstraction**  
+* **Maximal Sound Predictive Race Detection With Control Flow Abstraction**  
     ([paper](http://fsl.cs.illinois.edu/FSL/papers/2014/huang-meredith-rosu-2014-pldi/huang-meredith-rosu-2014-pldi-public.pdf))  
     by Jeff Huang, Patrick O'Neil Meredith and Grigore Rosu
 
 * **Surgical Precision JIT Compilers**  
-    ([paper](http://lampwww.epfl.ch/~rompf/pldi2014.pdf))  
+    (no preprint found)  
     by Tiark Rompf, Arvind K Sujeeth, Kevin J Brown, HyoukJoong Lee, Hassan Chafi and Kunle Olukotun
 
 * **VeriCon: Towards Verifying Controller Programs in Software-Defined Networks**  
@@ -148,7 +148,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Edgar Pek, Xiaokang Qiu and Madhusudan Parthasarathy
 
 * **Verification Modulo Versions: Towards Usable Verification**  
-    ([paper](https://www.cs.colorado.edu/~sabl4745/papers/pldi14-vmv.pdf))  
+    ([paper](http://www.cs.colorado.edu/~sabl4745/papers/pldi14-vmv.pdf))  
     by Francesco Logozzo, Manuel Fahndrich, Shuvendu Lahiri and Sam Blackshear
 
 * **On Abstraction Refinement for Program Analyses in Datalog**  
@@ -156,7 +156,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Xin Zhang, Ravi Mangal, Radu Grigore, Mayur Naik and Hongseok Yang
 
 * **Hybrid Top-down and Bottom-up Interprocedural Analysis**  
-    ([paper](http://www.cc.gatech.edu/~xzhang36/papers/tdbu.pdf))  
+    ([paper](http://www.cc.gatech.edu/~xzhang36/papers/pldi14b.pdf))  
     by Xin Zhang, Ravi Mangal, Mayur Naik and Hongseok Yang
 
 * **Compositional Solution Space Quantification for Probabilistic Software Analysis**  
@@ -164,7 +164,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Mateus Borges, Marcelo D'Amorim, Corina S. Pasareanu and Willem Visser
 
 * **Race Detection for Event-Driven Mobile Applications**  
-    ([paper](https://web.eecs.umich.edu/~pmchen/papers/hsiao14.pdf))  
+    ([paper](http://web.eecs.umich.edu/~pmchen/papers/hsiao14.pdf))  
     by Chun-Hung Hsiao, Jie Yu, Satish Narayanasamy, Ziyun Kong, Cristiano L Pereira, Gilles A Pokam, Peter Chen and Jason Flinn
 
 * **A Model Counter For Constraints Over Unbounded Strings**  
@@ -204,7 +204,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Phitchaya Mangpo Phothilimthana, Tikhon Jelvis, Rohin Shah, Nishant Totla, Sarah Chasins and Rastislav Bodik
 
 * **A Lightweight Symbolic Virtual Machine for Solver-Aided Host Languages**  
-    ([paper](http://people.csail.mit.edu/emina/pubs/rosette.pldi14.pdf))  
+    ([paper](http://www.cs.berkeley.edu/~bodik/Files/2014/rosette-pldi2014.pdf))  
     by Emina Torlak and Ras Bodik
 
 * **Resource Limits for Haskell**  
