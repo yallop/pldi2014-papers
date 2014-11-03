@@ -104,7 +104,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Xiao Xiao, Jinguo Zhou, Charles Zhang and Qirun Zhang
 
 * **Maximal Sound Predictive Race Detection With Control Flow Abstraction**  
-    ([paper](http://fsl.cs.illinois.edu/FSL/papers/2014/huang-meredith-rosu-2014-pldi/huang-meredith-rosu-2014-pldi-public.pdf))  
+    (no preprint found)  
     by Jeff Huang, Patrick O'Neil Meredith and Grigore Rosu
 
 * **Surgical Precision JIT Compilers**  
