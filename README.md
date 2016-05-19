@@ -16,7 +16,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Srinath Sridharan, Gagan Gupta and Gurindar Sohi
 
 * **Doppio: Breaking the Browser Language Barrier**  
-    ([paper](http://jvilk.github.io/doppio-demo/paper.pdf))  
+    ([paper](https://web.cs.umass.edu/publication/docs/2013/UM-CS-2013-026.pdf))  
     by John Vilk and Emery Berger
 
 * **Expressing and Verifying Probabilistic Assertions**  
