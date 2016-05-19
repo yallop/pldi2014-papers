@@ -36,7 +36,6 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Daniel Perelman, Sumit Gulwani, Dan Grossman and Peter Provost
 
 * **Compiler-Assisted Detection of Transient Memory Errors**  
-    ([paper](http://web.cse.ohio-state.edu/~tavarage/papers/TR02.pdf))  
     by Sanket Tavarageri, Sriram Krishnamoorthy and P Sadayappan
 
 * **FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps**  
