@@ -59,7 +59,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Chung-Kil Hur, Aditya Nori, Sriram Rajamani and Selva Samuel
 
 * **A Theory of Changes for Higher-Order Languages — Incrementalizing λ-Calculi by Static Differentiation**  
-    ([paper](http://www.informatik.uni-marburg.de/~pgiarrusso/papers/pldi14-ilc-2014-02-05.pdf))  
+    ([paper](http://arxiv.org/pdf/1312.0658v1))  
     by Yufei Cai, Paolo G. Giarrusso, Tillmann Rendel and Klaus Ostermann
 
 * **Program Consolidation**  
