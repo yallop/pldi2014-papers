@@ -147,7 +147,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Edgar Pek, Xiaokang Qiu and Madhusudan Parthasarathy
 
 * **Verification Modulo Versions: Towards Usable Verification**  
-    ([paper](http://www.cs.colorado.edu/~sabl4745/papers/pldi14-vmv.pdf))  
+    ([paper](http://research.microsoft.com/pubs/208587/paper.pdf))  
     by Francesco Logozzo, Manuel Fahndrich, Shuvendu Lahiri and Sam Blackshear
 
 * **On Abstraction Refinement for Program Analyses in Datalog**  
