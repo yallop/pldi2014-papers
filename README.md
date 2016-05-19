@@ -211,7 +211,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Edward Z. Yang and David Mazières
 
 * **A Framework for Enhancing Data Reuse via Associative Reordering**  
-    ([paper](http://www.cse.ohio-state.edu/~stockk/pldi14.pdf))  
+    ([preprint](http://www.grosser.es/publications/grosser-2014--A-framework-for-enhanced-data-reuse-via-assiative-reordering--paper.pdf))  
     by Kevin Stock, Louis-noël Pouchet, Fabrice Rastello, J. Ramanujam and P. Sadayappan
 
 * **Tracelet-Based Code Search in Executables**  
