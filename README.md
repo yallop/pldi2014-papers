@@ -16,7 +16,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Srinath Sridharan, Gagan Gupta and Gurindar Sohi
 
 * **Doppio: Breaking the Browser Language Barrier**  
-    ([paper](http://jvilk.github.io/doppio-demo/paper.pdf))  
+    ([paper](https://web.cs.umass.edu/publication/docs/2013/UM-CS-2013-026.pdf))  
     by John Vilk and Emery Berger
 
 * **Expressing and Verifying Probabilistic Assertions**  
@@ -36,7 +36,6 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Daniel Perelman, Sumit Gulwani, Dan Grossman and Peter Provost
 
 * **Compiler-Assisted Detection of Transient Memory Errors**  
-    ([paper](http://web.cse.ohio-state.edu/~tavarage/papers/TR02.pdf))  
     by Sanket Tavarageri, Sriram Krishnamoorthy and P Sadayappan
 
 * **FlowDroid: Precise Context, Flow, Field, Object-sensitive and Lifecycle-aware Taint Analysis for Android Apps**  
@@ -60,7 +59,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Chung-Kil Hur, Aditya Nori, Sriram Rajamani and Selva Samuel
 
 * **A Theory of Changes for Higher-Order Languages — Incrementalizing λ-Calculi by Static Differentiation**  
-    ([paper](http://www.informatik.uni-marburg.de/~pgiarrusso/papers/pldi14-ilc-2014-02-05.pdf))  
+    ([paper](http://arxiv.org/pdf/1312.0658v1))  
     by Yufei Cai, Paolo G. Giarrusso, Tillmann Rendel and Klaus Ostermann
 
 * **Program Consolidation**  
@@ -148,7 +147,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Edgar Pek, Xiaokang Qiu and Madhusudan Parthasarathy
 
 * **Verification Modulo Versions: Towards Usable Verification**  
-    ([paper](http://www.cs.colorado.edu/~sabl4745/papers/pldi14-vmv.pdf))  
+    ([paper](http://research.microsoft.com/pubs/208587/paper.pdf))  
     by Francesco Logozzo, Manuel Fahndrich, Shuvendu Lahiri and Sam Blackshear
 
 * **On Abstraction Refinement for Program Analyses in Datalog**  
@@ -212,7 +211,7 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/pl
     by Edward Z. Yang and David Mazières
 
 * **A Framework for Enhancing Data Reuse via Associative Reordering**  
-    ([paper](http://www.cse.ohio-state.edu/~stockk/pldi14.pdf))  
+    ([preprint](http://www.grosser.es/publications/grosser-2014--A-framework-for-enhanced-data-reuse-via-assiative-reordering--paper.pdf))  
     by Kevin Stock, Louis-noël Pouchet, Fabrice Rastello, J. Ramanujam and P. Sadayappan
 
 * **Tracelet-Based Code Search in Executables**  
